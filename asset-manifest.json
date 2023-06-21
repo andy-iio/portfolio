@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.421cc484.css",
-    "main.js": "/static/js/main.307972ab.js",
+    "main.css": "/static/css/main.6fd1599e.css",
+    "main.js": "/static/js/main.8ab473ac.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/hair-salon.png": "/static/media/hair-salon.4790e891d59b1576453f.png",
+    "static/media/pizza.png": "/static/media/pizza.ac3310934de0f566b07a.png",
     "static/media/waffleBar.png": "/static/media/waffleBar.6159e2b733993cd4c4c5.png",
     "static/media/background.png": "/static/media/background.a87889360c428fd010a8.png",
-    "static/media/pizza-menu.png": "/static/media/pizza-menu.9da5a18e821bb36fc6b4.png",
     "static/media/edgeDetection.png": "/static/media/edgeDetection.e3dbce95f3ea3cd8adc5.png",
     "static/media/recipeBot.png": "/static/media/recipeBot.4dc2fbce7cf2a999314e.png",
     "static/media/me.png": "/static/media/me.2e8c002426f68a5a4f2e.png",
     "static/media/sudoku.png": "/static/media/sudoku.ad61f28d62288f307ea8.png",
     "static/media/lines.svg": "/static/media/lines.4e0da3e977bc4fbc219f.svg",
     "index.html": "/index.html",
-    "main.421cc484.css.map": "/static/css/main.421cc484.css.map",
-    "main.307972ab.js.map": "/static/js/main.307972ab.js.map",
+    "main.6fd1599e.css.map": "/static/css/main.6fd1599e.css.map",
+    "main.8ab473ac.js.map": "/static/js/main.8ab473ac.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.421cc484.css",
-    "static/js/main.307972ab.js"
+    "static/css/main.6fd1599e.css",
+    "static/js/main.8ab473ac.js"
   ]
 }
