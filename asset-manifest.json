@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.da99fc1a.css",
-    "main.js": "/static/js/main.a58a2fbc.js",
+    "main.js": "/static/js/main.94192563.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/riseAndGrind.png": "/static/media/riseAndGrind.83cb369af13af52c1a03.png",
     "static/media/hair-salon.png": "/static/media/hair-salon.4790e891d59b1576453f.png",
@@ -10,6 +10,7 @@
     "static/media/flavourful-plate.png": "/static/media/flavourful-plate.7317956db85965dd695d.png",
     "static/media/ski-resort.png": "/static/media/ski-resort.48d2cc9b15789b52a665.png",
     "static/media/background.png": "/static/media/background.a87889360c428fd010a8.png",
+    "static/media/smartcube.png": "/static/media/smartcube.e53a590ee11948935e67.png",
     "static/media/edgeDetection.png": "/static/media/edgeDetection.e3dbce95f3ea3cd8adc5.png",
     "static/media/recipeBot.png": "/static/media/recipeBot.4dc2fbce7cf2a999314e.png",
     "static/media/me.png": "/static/media/me.2e8c002426f68a5a4f2e.png",
@@ -17,11 +18,11 @@
     "static/media/lines.svg": "/static/media/lines.4e0da3e977bc4fbc219f.svg",
     "index.html": "/index.html",
     "main.da99fc1a.css.map": "/static/css/main.da99fc1a.css.map",
-    "main.a58a2fbc.js.map": "/static/js/main.a58a2fbc.js.map",
+    "main.94192563.js.map": "/static/js/main.94192563.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da99fc1a.css",
-    "static/js/main.a58a2fbc.js"
+    "static/js/main.94192563.js"
   ]
 }
