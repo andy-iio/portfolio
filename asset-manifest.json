@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.348a6efb.css",
-    "main.js": "/static/js/main.5a64ebc4.js",
+    "main.css": "/static/css/main.2afea534.css",
+    "main.js": "/static/js/main.ce954c44.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/waffleBar.png": "/static/media/waffleBar.6159e2b733993cd4c4c5.png",
     "static/media/egar.png": "/static/media/egar.f6645b1d7d314fca5677.png",
+    "static/media/gtz.png": "/static/media/gtz.2d70af9b854fea28fd2e.png",
     "static/media/eWaste1.png": "/static/media/eWaste1.669f051df2565a6f7fad.png",
     "static/media/edgeDetection.png": "/static/media/edgeDetection.e3dbce95f3ea3cd8adc5.png",
     "static/media/recipeBot.png": "/static/media/recipeBot.4dc2fbce7cf2a999314e.png",
@@ -12,12 +13,12 @@
     "static/media/sudoku.png": "/static/media/sudoku.ad61f28d62288f307ea8.png",
     "static/media/photos-coming-soon.jpg": "/static/media/photos-coming-soon.1ca3f6f433f848b48685.jpg",
     "index.html": "/index.html",
-    "main.348a6efb.css.map": "/static/css/main.348a6efb.css.map",
-    "main.5a64ebc4.js.map": "/static/js/main.5a64ebc4.js.map",
+    "main.2afea534.css.map": "/static/css/main.2afea534.css.map",
+    "main.ce954c44.js.map": "/static/js/main.ce954c44.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.348a6efb.css",
-    "static/js/main.5a64ebc4.js"
+    "static/css/main.2afea534.css",
+    "static/js/main.ce954c44.js"
   ]
 }
